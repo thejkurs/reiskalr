@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Matheus, but u can call me Thejkurs. and I'm a Website Developer from Brasil.</p>
+<p align="left">My name is Matheus, but u can call me Reiskalr and I'm a Website Developer from Brasil.</p>
 
 ###
 

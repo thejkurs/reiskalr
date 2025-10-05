@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Matheus, but u can call me Reiskalr(Reis),  I'm a Website Developer from Brasil.</p>
+<p align="left">My name is Matheus, but u can call me Thejkurs(Theus),  I'm a Developer, from Brasil.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning Django and Cybersecurity</p>
+<p align="left">✨ Creating bugs since 2025<br>📚</p>
 
 ###
 

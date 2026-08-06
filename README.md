@@ -14,7 +14,7 @@
 </div>  
   
 
-**<div align="center">I'm a Web Developer specializing in Cybersecurity.</div>**  
+**<div align="center">I'm a Cybersecurity Student</div>**  
   
 
 <br/>  
